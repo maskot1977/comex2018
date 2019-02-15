@@ -1,5 +1,7 @@
 # comex2018
 
+* 線形重回帰をPythonで理解する
+    https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/線形重回帰をPythonで理解する.ipynb
 * 主成分分析をPythonで理解する
     https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/主成分分析をPythonで理解する.ipynb
 
