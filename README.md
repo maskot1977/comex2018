@@ -1,5 +1,8 @@
 # comex2018
 
+* 勾配法をPythonで理解する
+    https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/勾配法をPythonで理解する.ipynb
+
 * ラグランジュ補間やスプライン補間をPythonで理解する
     https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/ラグランジュ補間やスプライン補間をPythonで理解する.ipynb
 
