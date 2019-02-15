@@ -5,6 +5,9 @@
 * 主成分分析をPythonで理解する
     https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/主成分分析をPythonで理解する.ipynb
 
+* 二分法とニュートン法をPythonで理解する
+    https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/二分法とニュートン法をPythonで理解する.ipynb
+
 * 勾配法をPythonで理解する
     https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/勾配法をPythonで理解する.ipynb
     
