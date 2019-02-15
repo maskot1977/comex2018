@@ -1,5 +1,8 @@
 # comex2018
 
+* ラグランジュ補間やスプライン補間をPythonで理解する
+    https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/ラグランジュ補間やスプライン補間をPythonで理解する.ipynb
+
 * 微分や微分方程式をPythonで理解する
     https://nbviewer.jupyter.org/github/maskot1977/comex2018/blob/master/微分や微分方程式をPythonで理解する.ipynb
     
